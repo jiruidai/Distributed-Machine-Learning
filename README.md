@@ -10,7 +10,7 @@
 
 ## 📂 Project Structure
 ```plaintext
-Federated-Learning-Algorithms/
+Distributed-Machine-Learning/
 ├── algorithms/
 │   ├── FedSGD.ipynb
 │   ├── FedAvg.ipynb
