@@ -1,4 +1,34 @@
-# Federated-Learning-Algorithms
-Implement FedSGD-based Net, ResNet, LSTM, CNN, FCNN models and CNN-based FedSGD, FedAvg, SCAFFOLD, FedProx algorithms.
-Dataset used: Fashion-MNIST
+# Federated Learning Algorithms (Fashion-MNIST)
 
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
+> Implementation of **FedSGD-based Net, ResNet, LSTM, CNN, FCNN models** and **CNN-based FedSGD, FedAvg, SCAFFOLD, FedProx algorithms** on the **Fashion-MNIST** dataset.
+
+---
+
+## 📂 Project Structure
+```plaintext
+Federated-Learning-Algorithms/
+├── algorithms/
+│   ├── FedSGD.ipynb
+│   ├── FedAvg.ipynb
+│   ├── FedProx.ipynb
+│   └── SCAFFOLD.ipynb
+│
+├── models/
+│   ├── Net.ipynb
+│   ├── ResNet.ipynb
+│   ├── LSTM.ipynb
+│   ├── CNN.ipynb
+│   ├── FCNN.ipynb
+│   └── KAN_CNN.ipynb
+│
+├── outputs/
+│   ├── Code experiment.pptx/      # code消融实验
+│   └── paper/     # 论文与录用函
+│       ├── 录用函.pdf
+│       └── 最终出版稿件.pdf
+│
+└── README.md
