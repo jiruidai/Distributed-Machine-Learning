@@ -25,8 +25,8 @@ Distributed-Machine-Learning/
 │   ├── FCNN.ipynb
 │   └── KAN_CNN.ipynb
 │
-├── outputs/
-│   ├── Code experiment.pptx/      # code消融实验
+├── results/
+│   ├── Code experiment.pptx/      # 结果分析
 │   └── paper/     # 论文与录用函
 │       ├── 录用函.pdf
 │       └── 最终出版稿件.pdf
