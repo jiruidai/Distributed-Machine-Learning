@@ -26,9 +26,6 @@ Distributed-Machine-Learning/
 │   └── KAN_CNN.ipynb
 │
 ├── results/
-│   ├── Code experiment.pptx/      # 结果分析
-│   └── paper/     # 论文与录用函
-│       ├── 录用函.pdf
-│       └── 最终出版稿件.pdf
+│   ├── Code experiment.pptx/
 │
 └── README.md
